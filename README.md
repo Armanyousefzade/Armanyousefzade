@@ -14,8 +14,8 @@ Driven by a passion for continuous growth and innovation, I seek new opportuniti
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arman-yousef-zadeh/)
 
 
-# 📫 How to reach me:
-📧 Email: armanyousefzade95@gmail.com
+# 📧 Email:
+armanyousefzade95@gmail.com
 
 
 # 💻 Tech Stack:
