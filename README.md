@@ -1,5 +1,11 @@
-# 💫 About Me:
-‍💻 I am a Software Developer with 4+ years of professional experience in Agile environments, specializing in the entire software development lifecycle (SDLC). My passion is to create robust software with seamless user experiences.
+
+  <h1>👋 Hello, I'm Arman!</h1>
+  <p>
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="40%"/><br> 
+  </p>
+
+# ‍💻 About Me:
+ I am a Software Developer with 4+ years of professional experience in Agile environments, specializing in the entire software development lifecycle (SDLC). My passion is to create robust software with seamless user experiences.
 
 Throughout my career, I have honed my skills in Java, JavaScript, Spring, React, AWS, and REST APIs. With a strong foundation in object-oriented programming (OOP), design patterns, best practices, algorithms, and data structures, I bring a comprehensive skill set to every project.
 
