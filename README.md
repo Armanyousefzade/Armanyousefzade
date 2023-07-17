@@ -1,8 +1,7 @@
-
-  <h1>👋 Hello, I'm Arman!</h1>
-  <p>
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="40%"/><br> 
-  </p>
+<h1>👋 Hello, I'm Arman!</h1>
+  <p align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs" width="45%">
+</p>
 
 # ‍💻 About Me:
  I am a Software Developer with 4+ years of professional experience in Agile environments, specializing in the entire software development lifecycle (SDLC). My passion is to create robust software with seamless user experiences.
