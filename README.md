@@ -12,7 +12,7 @@ Throughout my career, I have honed my skills in Java, JavaScript, Spring, React,
 
 In addition to my technical expertise, I have excellent communication and teamwork skills. I believe that effective collaboration and open communication are key to successful software development. I actively engage with stakeholders, gather requirements, and ensure clear and concise communication within cross-functional teams, enabling us to deliver high-quality software solutions on time.
 
-<br>🔭 I’m currently working on developing full-stack software solutions at Link.<br>🌱 I’m continuously learning new frameworks, technologies, and best practices in software development.<br>👯 I’m looking for software developer and software engineer opportunities.<br>💬 Ask me everything software development-related, and I'll be happy to help you out. I love talking about this.<br>😄 Pronouns: He/Him
+<br>🔭 I’m currently working on developing full-stack software solutions at Link.<br>🌱 I’m continuously learning new frameworks, technologies, and best practices in software development.<br>💬 Ask me everything software development-related, and I'll be happy to help you out. I love talking about this.<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
